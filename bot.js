@@ -1,4 +1,4 @@
-﻿const Discord = require('discord.js');
+const Discord = require('discord.js');
 
 const Util = require('discord.js');
 
@@ -349,7 +349,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : CF Na World Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`الشيخ بريتي`,الشيخ بريتي"//twitch.tv/Toxic Codes")
+client.user.setGame(`الشيخ بريتي`,"http://twitch.tv/Toxic Codes")
 client.user.setStatus("dnd")
 });
 
